@@ -1,6 +1,6 @@
 # AI
 未来的趋势制造者
-<!DOCTYPE html>
+<!DOCTYPE html>   // html
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
