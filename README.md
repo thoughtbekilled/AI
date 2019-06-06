@@ -1,5 +1,6 @@
 # AI
 未来的趋势制造者
+```
 <!DOCTYPE html>   // html
 <html lang="en">
 <head>
@@ -12,3 +13,4 @@
 	<div class="top"></div>
 </body>
 </html>
+```
